@@ -4,7 +4,7 @@
 
 ## Ingredientes
 
-- 1 pacote de [bolacha maizena](https://blog.tudogostoso.com.br/cardapios/biscoito-de-maisena-caseiro-como-fazer/) ou [bolacha champagne](https://blog.tudogostoso.com.br/cardapios/biscoito-champagne-caseiro-como-fazer/)
+- 1 pacote de bolacha maizena ou bolacha champagne
 - 1 lata de leite condensado
 - 1 caixinha de creme de leite
 - 1 lata de leite comum
