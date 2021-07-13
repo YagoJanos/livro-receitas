@@ -1,5 +1,7 @@
 # Strogonoff de frango :chicken:
 
+![Estrogonofe](https://melepimenta.com/wp-content/uploads/2020/06/Estrogonofe-frango-Baixa-2.jpg)
+
 ### Ingredientes
 
 - 1 peito de frango sem pele nem osso (cerca de 700 g)
