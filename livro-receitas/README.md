@@ -2,8 +2,7 @@
 
 Olá! Bem vindo ao meu livro de receitas :wave:
 
-- Strogonoff de frango
-- Enroladinho de carne
+- [Strogonoff de frango](https://github.com/YagoJanos/livro-receitas/tree/master/livro-receitas/receitas/Strogonoff-de-Frango)
 - Pavê
 - Escondidinho de frango
 - Gelatina de uva
