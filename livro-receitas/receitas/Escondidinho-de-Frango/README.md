@@ -1,6 +1,6 @@
 # Escondidinho de Frango :shallow_pan_of_food:
 
- 
+ ![Escondidinho](https://www.receitasonline.com.br/wp-content/uploads/escondidinho-de-frango-750x422.jpg)
 
 ## Ingredientes
 
