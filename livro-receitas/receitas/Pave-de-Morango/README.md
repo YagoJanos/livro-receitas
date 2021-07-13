@@ -1,6 +1,6 @@
 # Pavê de Morango :pie::strawberry:
 
-
+![Pavê de Morango](https://s2.glbimg.com/SY8FfuWXTW8_S8hMRiN4TPY0_2U=/0x0:400x300/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2012/06/13/15/28/00/920/pave_de_morango.jpg)
 
 ## Ingredientes
 
